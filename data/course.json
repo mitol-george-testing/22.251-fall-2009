@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Materials"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0bfe7e89-06bf-c410-14e9-82dd954b3054",
+      "9dc11633-5274-db3e-c390-ac0da6e5f4ad"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Systems Analysis of the Nuclear Fuel Cycle",
+  "course_description": "This course provides an in-depth technical and policy analysis of various options for the nuclear fuel cycle. Topics include uranium supply, enrichment fuel fabrication, in-core physics and fuel management of uranium, thorium and other fuel types, reprocessing and waste disposal. Also covered are the principles of fuel cycle economics and the applied reactor physics of both contemporary and proposed thermal and fast reactors. Nonproliferation aspects, disposal of excess weapons plutonium, and transmutation of actinides and selected fission products in spent fuel are examined. Several state-of-the-art computer programs are provided for student use in problem sets and term papers.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.251",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
